@@ -1,0 +1,5 @@
+{
+  "name": "Exoplanet Explorer",
+  "description": "An interactive dashboard for exploring habitable exoplanets and Earth-like worlds across the cosmos, featuring real-time data and AI-generated visualizations.",
+  "requestFramePermissions": []
+}
